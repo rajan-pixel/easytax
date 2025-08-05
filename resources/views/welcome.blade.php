@@ -16,7 +16,7 @@
         </a>
       </div>
       <div class="col-lg-5 d-none d-lg-block">
-        <img src="https://cdn-icons-png.flaticon.com/512/3855/3855485.png" alt="Finance Illustration" class="img-fluid" style="max-height: 350px;">
+        <img src="{{ asset('asset/hero.png') }}" alt="Finance Illustration" class="img-fluid" style="max-height: 350px;">
       </div>
     </div>
   </div>
