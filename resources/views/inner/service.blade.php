@@ -12,7 +12,7 @@
         <div class="card shadow-sm h-100">
           <div class="card-body">
             <h5 class="fw-bold">Income Tax Filing</h5>
-            <p class="text-success small">Starting from ₹499/-</p>
+            {{-- <p class="text-success small">Starting from ₹499/-</p> --}}
             <ul class="small mb-3">
               <li>✅ Salaried / Business / Freelancers</li>
               <li>✅ Quick filing & Refund tracking</li>
@@ -28,7 +28,7 @@
         <div class="card shadow-sm h-100">
           <div class="card-body">
             <h5 class="fw-bold">GST Registration & Return</h5>
-            <p class="text-success small">Starting from ₹999/-</p>
+            {{-- <p class="text-success small">Starting from ₹999/-</p> --}}
             <ul class="small mb-3">
               <li>✅ GSTIN within 3–5 days</li>
               <li>✅ Monthly/Quarterly Returns</li>
@@ -44,7 +44,7 @@
         <div class="card shadow-sm h-100">
           <div class="card-body">
             <h5 class="fw-bold">TDS Filing</h5>
-            <p class="text-success small">Starting from ₹899/-</p>
+            {{-- <p class="text-success small">Starting from ₹899/-</p> --}}
             <ul class="small mb-3">
               <li>✅ TDS Return (24Q, 26Q)</li>
               <li>✅ Challan preparation</li>
@@ -74,7 +74,7 @@
       <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
         <div class="card shadow-sm h-100">
           <div class="card-body">
-            <h5 class="fw-bold">Accounting & Bookkeeping</h5>
+            <h5 class="fw-bold">Accounting & Book keeping</h5>
             <ul class="small mb-3">
               <li>✅ Tally & Digital Books</li>
               <li>✅ Monthly/Quarterly Records</li>
@@ -135,7 +135,7 @@
         <div class="card shadow-sm h-100">
           <div class="card-body">
             <h5 class="fw-bold">Company Registration</h5>
-            <p class="text-success small">Starting from ₹2999/-</p>
+            {{-- <p class="text-success small">Starting from ₹2999/-</p> --}}
             <ul class="small mb-3">
               <li>✅ DIN & DSC (2 Directors)</li>
               <li>✅ MoA, AoA, PAN & TAN</li>
